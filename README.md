@@ -35,3 +35,5 @@ Installing collected packages: itsdangerous, MarkupSafe, Jinja2, Werkzeug, click
 Successfully installed Jinja2-3.1.2 MarkupSafe-2.1.2 Werkzeug-2.2.2 click-8.1.3 flask-2.2.2 importlib-metadata-6.0.0 itsdangerous-2.1.2 zipp-3.11.0
 You should consider upgrading via the 'pip install --upgrade pip' command.
 ```
+
+- command `deta deploy` to push any changes in code
