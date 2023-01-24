@@ -39,3 +39,5 @@ Installing collected packages: typing-extensions, pydantic, sniffio, idna, anyio
 Successfully installed anyio-3.6.2 fastapi-0.89.1 idna-3.4 pydantic-1.10.4 sniffio-1.3.0 starlette-0.22.0 typing-extensions-4.4.0
 You should consider upgrading via the 'pip install --upgrade pip' command.
 ```
+
+- command `deta deploy` to push any changes in code
