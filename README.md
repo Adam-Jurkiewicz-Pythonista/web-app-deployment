@@ -14,3 +14,5 @@ ToDo:
 - [ ] check with `deta --help`
 - [ ] login: `deta login`
 - [ ] go to branch `fastapi` or `Flask` and complete deployment based on code and Readme
+
+![Screenshot_20230124_150051](https://user-images.githubusercontent.com/5088643/214320351-1be305c3-61d1-4dc5-b956-71a4622e6494.png)
